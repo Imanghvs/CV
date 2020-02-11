@@ -1,0 +1,20 @@
+body{
+  padding: 20px;
+  font-family: Arial;
+}
+td, th {
+  text-align: left;
+  padding: 10px;
+}
+th {
+  background-color: lightgrey;
+}
+.organization, .language{
+  font-weight: bold;
+}
+li {
+  padding: 5px;
+}
+.skill{
+  color: blue;
+}
